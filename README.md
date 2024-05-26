@@ -1,12 +1,16 @@
 # ideasifoundation
 Website Structure 
+<!DOCTYPE html>
 
+<nav>
 Home
  Mission & Vision 
  Our Team
  Our Affiliates ( Use of logos )
  Achievement Stats :
  2500 Youths Reached , 40 Beneficiary Communities ,  30 Project collaborations ,  4 Research Projects 
+</nav>
+
 
 Our Programmes 
  Know Our Money in the Circular Economy Programme 
